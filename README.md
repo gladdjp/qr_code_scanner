@@ -1,3 +1,8 @@
+# ！！これはFork版です。
+Pull Requestを出すときは、マージ先に注意しましょう。
+新規リポジトリからPushしたときに、自動的に表示されるPull requestボタンで作成すると、マージ先がOriginalのブランチになってしまいます。
+間違って作ってしまったらGitHubのサポートページで依頼しましょう。
+
 # Project in Maintenance Mode Only
 
 Since the underlying frameworks of this package, [zxing for android](https://github.com/zxing/zxing) and [MTBBarcodescanner for iOS](https://github.com/mikebuss/MTBBarcodeScanner) are both not longer maintaned, this plugin is no longer up to date and in maintenance mode only. Only bug fixes and minor enhancements will be considered.
